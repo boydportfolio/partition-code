@@ -175,3 +175,4 @@ python3 scripts/check_public.py
 ```
 
 CI runs on Python 3.11 and 3.13. Mac launcher compilation is checked on macOS.
+
